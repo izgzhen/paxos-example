@@ -1,0 +1,13 @@
+message drop rate,name,nodes,time spent s)
+25.00%,test_run,3,4.043
+25.00%,test_run,3,RuntimeError: reentrant call
+25.00%,test_run,3,4.056
+25.00%,test_run,3,stuck
+25.00%,test_run,3,RuntimeError: reentrant call
+25.00%,test_run,3,4.049
+25.00%,test_run,5,stuck
+25.00%,test_run,5,stuck
+25.00%,test_run,5,4.044
+25.00%,test_run,5,4.06
+25.00%,test_run,5,4.097
+25.00%,test_run,5,4.048

@@ -1,0 +1,22 @@
+message drop rate,name,time spent (s)
+5.00%,test_run,4.05
+5.00%,test_run,4.052
+10.00%,test_run,4.052
+10.00%,test_run,4.052
+20.00%,test_run,4.049
+20.00%,test_run,4.048
+25.00%,test_run,4.043
+25.00%,test_run,RuntimeError: reentrant call
+25.00%,test_run,4.056
+25.00%,test_run,stuck
+30.00%,test_run,stuck
+30.00%,test_run,4.049
+30.00%,test_run,RuntimeError: reentrant call
+30.00%,test_run,4.05
+30.00%,test_run,4.056
+30.00%,test_run,stuck
+30.00%,test_run,stuck
+30.00%,test_run,4.051
+50.00%,test_run,stuck
+50.00%,test_run,stuck
+50.00%,test_run,4.049
